@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebMVC_API_Gage
 build_property.RootNamespace = WebMVC_API_Gage
-build_property.ProjectDir = C:\Users\Student\Source\Repos\WebMVC_API_Gage1\WebMVC_API_Gage\
+build_property.ProjectDir = /Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Student\Source\Repos\WebMVC_API_Gage1\WebMVC_API_Gage
+build_property.MSBuildProjectDirectory = /Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Characters/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xDcmVhdGUuY3NodG1s
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Character/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcmFjdGVyL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Characters/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xEZWxldGUuY3NodG1s
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Character/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcmFjdGVyL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Characters/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xEZXRhaWxzLmNzaHRtbA==
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Character/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcmFjdGVyL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Characters/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xFZGl0LmNzaHRtbA==
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Character/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcmFjdGVyL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Characters/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyc1xJbmRleC5jc2h0bWw=
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Character/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hhcmFjdGVyL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Student/Source/Repos/WebMVC_API_Gage1/WebMVC_API_Gage/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-gm124q3665
+[/Users/jameskocsis/Documents/Jim/JimK-HP/repos/2022-Fall-Chort/Gage/webmvc-gage/WebMVC_API_Gage/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y2fszpas0y

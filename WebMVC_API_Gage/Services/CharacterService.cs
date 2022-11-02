@@ -7,7 +7,7 @@ namespace WebMVC_API_Gage.Services
     public class CharacterService : ICharacterService
     {
         private readonly HttpClient _client;
-        public const string BasePath = "/api/Character/";
+        public const string BasePath = "/api/Characters/";
 
         public CharacterService(HttpClient client)
         {

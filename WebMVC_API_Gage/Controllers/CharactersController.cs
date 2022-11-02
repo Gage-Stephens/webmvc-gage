@@ -58,7 +58,7 @@ namespace WebMVC_API_Gage.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Race,Strength,Health")] Character character)
         {
-            character.Id = null;
+            character.Id = 0;
             var resultPost = await client.PostAsync<Character>(requestUri, character, new JsonMediaTypeFormatter());
 
             return RedirectToAction(nameof(Index));
@@ -79,7 +79,7 @@ namespace WebMVC_API_Gage.Controllers
         // POST: VideoGame/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,StudioId, MainCharacterId")] Character character)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Race,Strength,Health")] Character character)
         {
             if (id != character.Id)
             {
@@ -94,13 +94,13 @@ namespace WebMVC_API_Gage.Controllers
         public async Task<IActionResult> Delete(int id)
 
         {
-            var videoGame = await _service.FindOne(id);
-            if (videoGame == null)
+            var character = await _service.FindOne(id);
+            if (character == null)
             {
                 return NotFound();
             }
 
-            return View(videoGame);
+            return View(character);
         }
 
         // POST: VideoGame/Delete/5
